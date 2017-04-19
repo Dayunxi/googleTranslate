@@ -24,3 +24,7 @@
 ```dos
 python translate.py sourceFile [targetFile]
 ```
+
+-----
+
+[制作详情](http://www.adamyt.com/blog/20170419-googleTranslate/)
